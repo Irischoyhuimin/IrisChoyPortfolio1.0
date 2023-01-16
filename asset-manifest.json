@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/IrisChoyPortfolio1.0/static/css/main.9cbd6f4d.css",
+    "main.js": "/IrisChoyPortfolio1.0/static/js/main.1ebb004d.js",
+    "static/media/main__header.jpeg": "/IrisChoyPortfolio1.0/static/media/main__header.d45463a4d6a2d617e13d.jpeg",
+    "static/media/Hands.jpeg": "/IrisChoyPortfolio1.0/static/media/Hands.6d0b1c7ae89e797d8e6d.jpeg",
+    "static/media/logo.png": "/IrisChoyPortfolio1.0/static/media/logo.339a37e094486176ae15.png",
+    "index.html": "/IrisChoyPortfolio1.0/index.html",
+    "main.9cbd6f4d.css.map": "/IrisChoyPortfolio1.0/static/css/main.9cbd6f4d.css.map",
+    "main.1ebb004d.js.map": "/IrisChoyPortfolio1.0/static/js/main.1ebb004d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cbd6f4d.css",
+    "static/js/main.1ebb004d.js"
+  ]
+}
